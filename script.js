@@ -76,7 +76,7 @@ $(document).ready(function () {
 
 
     (function () {
-        emailjs.init("CLtYcUvPLD62NSGGB"); // Replace with your EmailJS user ID
+        emailjs.init("service_b8yusfa"); // Replace with your EmailJS user ID
     })();
 
     document.addEventListener("DOMContentLoaded", function() {
@@ -110,4 +110,5 @@ $(document).ready(function () {
         });
     });
     
+
 });
